@@ -36,4 +36,9 @@ function divisao (a, b){
 return a/b;
 }
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
+<<<<<<< HEAD
 divisao(10, 2)
+=======
+divisao(10, 2)
+```
+>>>>>>> 60fae7e60e547a0f8642599f21561a86edcf4ab3
